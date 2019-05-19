@@ -3,9 +3,6 @@
 %
 %  Instructions
 %  --------------
-% 
-%  This file contains code that helps you get started on the
-%  linear regression exercise. 
 %
 %  You will need to complete the following functions in this 
 %  exericse:
