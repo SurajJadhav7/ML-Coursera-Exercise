@@ -2,7 +2,7 @@
 %  Exercise 1: Linear regression with multiple variables
 %
 %  Instructions
-%  ------------
+%  --------------
 % 
 %  This file contains code that helps you get started on the
 %  linear regression exercise. 
