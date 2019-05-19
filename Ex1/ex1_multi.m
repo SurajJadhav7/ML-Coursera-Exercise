@@ -3,7 +3,6 @@
 %
 %  Instructions
 %  --------------
-%
 %  You will need to complete the following functions in this 
 %  exericse:
 %
