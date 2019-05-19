@@ -31,13 +31,7 @@ for i=1:size(X_norm, 2),
     sigma(i)=std(X_norm(:,i));
     X_norm(:,i)=X_norm(:,i)/sigma(i);
 end
-
-
 X=X_norm
-
-
-
-
 
 % ============================================================
 
